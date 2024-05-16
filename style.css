@@ -22,11 +22,11 @@ body {
     background-color:#A52422;
 }
 .contact-us{
-    background-color:#403D39;
+    background-color:#5a4d3d;
 }
 @media (min-width: 760px) {
     body {
-        background-color: aliceblue;
+        background-color:#AD8A64;
     }
 }
 @media (min-width: 960px) {
